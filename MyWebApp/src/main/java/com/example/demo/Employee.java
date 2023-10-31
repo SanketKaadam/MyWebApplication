@@ -1,6 +1,6 @@
 package com.example.demo;
 
-public class Alien
+public class Employee
 {
 	private int aid;
 	private String aname;
